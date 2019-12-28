@@ -2,8 +2,7 @@
 Through some methods like histogram equalization to do contrast, spatial filters to eliminate noise.
 ### [連結](https://github.com/zzo30802/3rd-ML100Days/tree/master/homework/digital_image_processing)
 
-# 3rd-ML100Days
-# 機器學習馬拉松
+# 3rd-ML100Days  機器學習馬拉松
 Record the information and tutorial about Machine Learning.
 ### [01 資料前處理(Processing)](https://github.com/zzo30802/3rd-ML100Days/blob/master/homework/01%E5%89%8D%E8%99%95%E7%90%86(Day001~Day013).ipynb)
 ### [02 探索式數據分析(EDA)](https://github.com/zzo30802/3rd-ML100Days/blob/master/homework/02EDA%E6%8E%A2%E7%B4%A2%E5%BC%8F%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90(Day014~021).ipynb)
