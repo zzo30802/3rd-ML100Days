@@ -6,7 +6,7 @@ using namespace cv;
 using namespace std;
 
 int main(int argc, const char** argv) {
-    argv[1] = "E:\\3rd-ML100Days\\C_projects\\openCV\\resource\\dog.jpg";
+    argv[1] = "E:\\3rd-ML100Days\\C_projects\\openCV-VS\\resource\\dog.jpg";
     //Mat是openCV新訂的資料型態，就像傳統的資料型態int、float、String。Mat代表圖像，而圖像都是二維陣列，所以OpenCV定義處理圖像的矩陣類別(Matrix)
     Mat image;
 
