@@ -7,7 +7,7 @@ using namespace std;
 
 int main(int argc, const char** argv) {
 	//程式啟動時會直接輸入
-	argv[1] = "E:\\3rd-ML100Days\\C_projects\\openCV\\resource\\dog.jpg";
+	argv[1] = "E:\\3rd-ML100Days\\C_projects\\openCV-VS\\resource\\dog.jpg";
 
 	Mat image;
 
