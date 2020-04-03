@@ -29,3 +29,8 @@ export the answers to excel through python calculations, I can easily and quickl
 # 六. 單字本(wordbook)
 Used HTML, JavaScript, Ajax, PHP, MySQL to do a simple wordbook. There are many words to read in English and Japanese, so I want to create a website, then I can upload the words and descriptions.
 ### [連結](https://github.com/zzo30802/3rd-ML100Days/tree/master/wordbook)
+
+=========================================================================
+# QT+OpenCV+CMAKE+(Visual Studio(MSVC) or MinGW編譯)-建環境筆記
+建環境花了很多時間，怕以後忘掉，避免以後踩一樣的坑。
+### [連結](https://github.com/zzo30802/3rd-ML100Days/blob/master/C_projects/qt_install_note.ipynb)
